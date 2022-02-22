@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Vatche Thorossian
-ML & DL
+Hi, I’m Vatche Thorossian.
+Machine-Learning & Deep-Learning with Pyhton & R
