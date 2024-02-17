@@ -25,12 +25,3 @@ Hi there! I'm a Python developer with a background in data science, web scraping
 [![](https://visitcount.itsvg.in/api?id=vatche-t&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-Last updated on: 2024-02-11
-
-Last updated on: 2024-02-13
-
-Last updated on: 2024-02-14
-
-Last updated on: 2024-02-16
